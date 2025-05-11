@@ -32,6 +32,10 @@ To run the project, it's recommended to use a **virtual environment** to manage 
     ```bash
     python app.py
     ```
+5. Use your together ai API key
+   ```bash
+   export TOGETHER_API_KEY=<your_api_key>
+   ```
 
 ### Notes
 
