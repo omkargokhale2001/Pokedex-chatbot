@@ -124,7 +124,23 @@
         <button onclick="resetChat()" style="background-color: #e53e3e; color: white;">Reset Chat</button>
     </div>
 
+    <div style="margin-top: 10px;">
+        <button onclick="toggleVoice()" id="voice-toggle" style="background-color: #3182ce; color: white;">
+            Voice: ON
+        </button>
+    </div>
+    
+
     <script>
+        let voiceEnabled = true;
+
+        function toggleVoice() {
+            voiceEnabled = !voiceEnabled;
+            const button = document.getElementById("voice-toggle");
+            button.textContent = `Voice: ${voiceEnabled ? "ON" : "OFF"}`;
+        }
+
+
         async function resetChat() {
             const response = await fetch("/reset", {
                 method: "POST"
@@ -171,7 +187,9 @@
             if (thinkingElem) thinkingElem.remove();
 
             // Add actual bot response
-            speak(data.response);
+            if (voiceEnabled) {
+                speak(data.response);
+            }
             addMessage("bot", data.response);
         }
 
