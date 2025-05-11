@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pokédex</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #1e1e2f;
+            color: #f1f1f1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            padding: 20px;
+        }
+
+        header img {
+            height: 50px;
+            margin-right: 15px;
+        }
+
+        h1 {
+            font-size: 1.8em;
+            color: #ffcb05;
+            margin: 0;
+        }
+
+        #chat-box {
+            width: 90%;
+            max-width: 600px;
+            height: 70vh;
+            background-color: #2a2a40;
+            border-radius: 10px;
+            padding: 15px;
+            overflow-y: auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .message {
+            margin: 10px 0;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .user {
+            align-items: flex-end;
+        }
+
+        .bot {
+            align-items: flex-start;
+        }
+
+        .bubble {
+            max-width: 70%;
+            padding: 10px 15px;
+            border-radius: 20px;
+            margin: 5px 0;
+            line-height: 1.4;
+            font-size: 14px;
+        }
+
+        .user .bubble {
+            background-color: #4f46e5;
+            color: white;
+            border-bottom-right-radius: 0;
+        }
+
+        .bot .bubble {
+            background-color: #3b3b5c;
+            color: #f1f1f1;
+            border-bottom-left-radius: 0;
+        }
+
+        #input-area {
+            width: 90%;
+            max-width: 600px;
+            display: flex;
+            margin-top: 15px;
+        }
+
+        #user-input {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            border-radius: 5px 0 0 5px;
+            font-size: 14px;
+            background-color: #2e2e4a;
+            color: white;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #ffcb05;
+            color: black;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background-color: #f5b800;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pokédex</h1>
+    </header>
+
+    <div id="chat-box"></div>
+
+    <div id="input-area">
+        <input type="text" id="user-input" placeholder="Ask me anything about Pokémon..." onkeydown="handleKey(event)"/>
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <div style="margin-top: 10px;">
+        <button onclick="resetChat()" style="background-color: #e53e3e; color: white;">Reset Chat</button>
+    </div>
+
+    <script>
+        async function resetChat() {
+            const response = await fetch("/reset", {
+                method: "POST"
+            });
+            if (response.ok) {
+                document.getElementById("chat-box").innerHTML = "";
+            }
+        }
+
+        function speak(text) {
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'en-US'; // or 'en-GB', etc.
+            window.speechSynthesis.speak(utterance);
+        }
+
+        function handleKey(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                sendMessage();
+            }
+        }
+        async function sendMessage() {
+            const input = document.getElementById("user-input");
+            const message = input.value.trim();
+            if (!message) return;
+
+            addMessage("user", message);
+            input.value = "";
+
+            // Add "Thinking..." placeholder
+            const placeholderId = "thinking-msg";
+            addMessage("bot", "Thinking...", placeholderId);
+
+            const response = await fetch("/ask", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message: message })
+            });
+
+            const data = await response.json();
+
+            // Remove placeholder
+            const thinkingElem = document.getElementById(placeholderId);
+            if (thinkingElem) thinkingElem.remove();
+
+            // Add actual bot response
+            speak(data.response);
+            addMessage("bot", data.response);
+        }
+
+
+        function addMessage(sender, text, id = null) {
+            const chatBox = document.getElementById("chat-box");
+            const messageDiv = document.createElement("div");
+            messageDiv.classList.add("message", sender);
+            if (id) messageDiv.id = id;
+
+            const bubble = document.createElement("div");
+            bubble.classList.add("bubble");
+            bubble.textContent = text;
+
+            messageDiv.appendChild(bubble);
+            chatBox.appendChild(messageDiv);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+    </script>
+</body>
+</html>
