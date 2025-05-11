@@ -1,2 +1,41 @@
-# Pokedex
-This is a chatbot that uses Llama 3.3 70B instruct using the Together API. I have implemented RAG using a vectordb created using FAISS and HuggingFace embeddings. The data was scraped by me from Bulbapedia. It's not perfect but I just wanted to apply RAG somewhere and this seemed like a fun idea.
+# Pokedex Chatbot
+
+This project is a **Pokédex chatbot** powered by the **Llama 3.3 70B Instruct** model via the **Together API**. I've implemented **RAG (Retrieval-Augmented Generation)** using a **FAISS**-based vector database and **HuggingFace embeddings**. The data used for this project was scraped from **Bulbapedia**. While it's not perfect, I created this project as an experiment to apply RAG in a fun, engaging way.
+
+### Getting Started
+
+To run the project, it's recommended to use a **virtual environment** to manage dependencies. I’ve found that **Python 3.10** works best for this code, but feel free to experiment with other versions.
+
+### Setup Instructions:
+
+1. Create a virtual environment:
+    ```bash
+    python -m venv venv
+    ```
+
+2. Activate the virtual environment:
+    - On macOS/Linux:
+      ```bash
+      source venv/bin/activate
+      ```
+    - On Windows:
+      ```bash
+      .\venv\Scripts\activate
+      ```
+
+3. Install the required libraries:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Run the app:
+    ```bash
+    python app.py
+    ```
+
+### Notes
+
+- The `requirements.txt` file is included to simplify the setup process.
+- While the project is still a work in progress, it serves as a fun and practical way to explore RAG and integrate machine learning models into a chatbot.
+
+Feel free to experiment and make improvements!
