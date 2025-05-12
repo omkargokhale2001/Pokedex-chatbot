@@ -1,0 +1,1026 @@
+Pokemon_Name,Types
+Bulbasaur,Poison and Grass
+Ivysaur,Poison and Grass
+Venusaur,Poison and Grass
+Charmander,Fire
+Charmeleon,Fire
+Charizard,Fire and Dragon and Flying
+Squirtle,Water
+Wartortle,Water
+Blastoise,Water
+Caterpie,Bug
+Metapod,Bug
+Butterfree,Bug and Flying
+Weedle,Poison and Bug
+Kakuna,Poison and Bug
+Beedrill,Poison and Bug
+Pidgey,Flying and Normal
+Pidgeotto,Flying and Normal
+Pidgeot,Flying and Normal
+Rattata,Dark and Normal
+Raticate,Dark and Normal
+Spearow,Flying and Normal
+Fearow,Flying and Normal
+Ekans,Poison
+Arbok,Poison
+Pikachu,Electric
+Raichu,Psychic and Electric
+Sandshrew,Steel and Ground and Ice
+Sandslash,Steel and Ground and Ice
+Nidoran♀,Poison
+Nidorina,Poison
+Nidoqueen,Poison and Ground
+Nidoran♂,Poison
+Nidorino,Poison
+Nidoking,Poison and Ground
+Clefairy,Fairy
+Clefable,Fairy
+Vulpix,Fire and Ice
+Ninetales,Fire and Fairy and Ice
+Jigglypuff,Fairy and Normal
+Wigglytuff,Fairy and Normal
+Zubat,Poison and Flying
+Golbat,Poison and Flying
+Oddish,Poison and Grass
+Gloom,Poison and Grass
+Vileplume,Poison and Grass
+Paras,Bug and Grass
+Parasect,Bug and Grass
+Venonat,Poison and Bug
+Venomoth,Poison and Bug
+Diglett,Steel and Ground
+Dugtrio,Steel and Ground
+Meowth,Steel and Dark and Normal
+Persian,Dark and Normal
+Psyduck,Water
+Golduck,Water
+Mankey,Fighting
+Primeape,Fighting
+Growlithe,Rock and Fire
+Arcanine,Rock and Fire
+Poliwag,Water
+Poliwhirl,Water
+Poliwrath,Fighting and Water
+Abra,Psychic
+Kadabra,Psychic
+Alakazam,Psychic
+Machop,Fighting
+Machoke,Fighting
+Machamp,Fighting
+Bellsprout,Poison and Grass
+Weepinbell,Poison and Grass
+Victreebel,Poison and Grass
+Tentacool,Poison and Water
+Tentacruel,Poison and Water
+Geodude,Rock and Electric and Ground
+Graveler,Rock and Electric and Ground
+Golem,Rock and Electric and Ground
+Ponyta,Fire and Psychic
+Rapidash,Fire and Fairy and Psychic
+Slowpoke,Psychic and Water
+Slowbro,Poison and Psychic and Water
+Magnemite,Steel and Electric
+Magneton,Steel and Electric
+Farfetch'd,Fighting and Flying and Normal
+Doduo,Flying and Normal
+Dodrio,Flying and Normal
+Seel,Water
+Dewgong,Water and Ice
+Grimer,Poison and Dark
+Muk,Poison and Dark
+Shellder,Water
+Cloyster,Water and Ice
+Gastly,Ghost and Poison
+Haunter,Ghost and Poison
+Gengar,Ghost and Poison
+Onix,Rock and Ground
+Drowzee,Psychic
+Hypno,Psychic
+Krabby,Water
+Kingler,Water
+Voltorb,Electric and Grass
+Electrode,Electric and Grass
+Exeggcute,Psychic and Grass
+Exeggutor,Psychic and Dragon and Grass
+Cubone,Ground
+Marowak,Ghost and Fire and Ground
+Hitmonlee,Fighting
+Hitmonchan,Fighting
+Lickitung,Normal
+Koffing,Poison
+Weezing,Poison and Fairy
+Rhyhorn,Rock and Ground
+Rhydon,Rock and Ground
+Chansey,Normal
+Tangela,Grass
+Kangaskhan,Normal
+Horsea,Water
+Seadra,Water
+Goldeen,Water
+Seaking,Water
+Staryu,Water
+Starmie,Psychic and Water
+Mr. Mime,Psychic and Fairy and Ice
+Scyther,Bug and Flying
+Jynx,Psychic and Ice
+Electabuzz,Electric
+Magmar,Fire
+Pinsir,Bug and Flying
+Tauros,Fighting and Normal
+Magikarp,Water
+Gyarados,Dark and Water and Flying
+Lapras,Water and Ice
+Ditto,Normal
+Eevee,Normal
+Vaporeon,Water
+Jolteon,Electric
+Flareon,Fire
+Porygon,Normal
+Omanyte,Rock and Water
+Omastar,Rock and Water
+Kabuto,Rock and Water
+Kabutops,Rock and Water
+Aerodactyl,Rock and Flying
+Snorlax,Normal
+Articuno,Psychic and Flying and Ice
+Zapdos,Fighting and Electric and Flying
+Moltres,Fire and Dark and Flying
+Dratini,Dragon
+Dragonair,Dragon
+Dragonite,Dragon and Flying
+Mewtwo,Fighting and Psychic
+Mew,Psychic
+Chikorita,Grass
+Bayleef,Grass
+Meganium,Grass
+Cyndaquil,Fire
+Quilava,Fire
+Typhlosion,Ghost and Fire
+Totodile,Water
+Croconaw,Water
+Feraligatr,Water
+Sentret,Normal
+Furret,Normal
+Hoothoot,Flying and Normal
+Noctowl,Flying and Normal
+Ledyba,Bug and Flying
+Ledian,Bug and Flying
+Spinarak,Poison and Bug
+Ariados,Poison and Bug
+Crobat,Poison and Flying
+Chinchou,Electric and Water
+Lanturn,Electric and Water
+Pichu,Electric
+Cleffa,Fairy
+Igglybuff,Fairy and Normal
+Togepi,Fairy
+Togetic,Fairy and Flying
+Natu,Psychic and Flying
+Xatu,Psychic and Flying
+Mareep,Electric
+Flaaffy,Electric
+Ampharos,Dragon and Electric
+Bellossom,Grass
+Marill,Water and Fairy
+Azumarill,Water and Fairy
+Sudowoodo,Rock
+Politoed,Water
+Hoppip,Grass and Flying
+Skiploom,Grass and Flying
+Jumpluff,Grass and Flying
+Aipom,Normal
+Sunkern,Grass
+Sunflora,Grass
+Yanma,Bug and Flying
+Wooper,Poison and Ground and Water
+Quagsire,Ground and Water
+Espeon,Psychic
+Umbreon,Dark
+Murkrow,Dark and Flying
+Slowking,Poison and Psychic and Water
+Misdreavus,Ghost
+Unown,Psychic
+Wobbuffet,Psychic
+Girafarig,Psychic and Normal
+Pineco,Bug
+Forretress,Steel and Bug
+Dunsparce,Normal
+Gligar,Ground and Flying
+Steelix,Steel and Ground
+Snubbull,Fairy
+Granbull,Fairy
+Qwilfish,Poison and Dark and Water
+Scizor,Steel and Bug
+Shuckle,Rock and Bug
+Heracross,Fighting and Bug
+Sneasel,Poison and Fighting and Dark and Ice
+Teddiursa,Normal
+Ursaring,Normal
+Slugma,Fire
+Magcargo,Rock and Fire
+Swinub,Ground and Ice
+Piloswine,Ground and Ice
+Corsola,Rock and Ghost and Water
+Remoraid,Water
+Octillery,Water
+Delibird,Flying and Ice
+Mantine,Water and Flying
+Skarmory,Steel and Flying
+Houndour,Fire and Dark
+Houndoom,Fire and Dark
+Kingdra,Dragon and Water
+Phanpy,Ground
+Donphan,Ground
+Porygon2,Normal
+Stantler,Normal
+Smeargle,Normal
+Tyrogue,Fighting
+Hitmontop,Fighting
+Smoochum,Psychic and Ice
+Elekid,Electric
+Magby,Fire
+Miltank,Normal
+Blissey,Normal
+Raikou,Electric
+Entei,Fire
+Suicune,Water
+Larvitar,Rock and Ground
+Pupitar,Rock and Ground
+Tyranitar,Rock and Dark
+Lugia,Psychic and Flying
+Ho-Oh,Fire and Flying
+Celebi,Psychic and Grass
+Treecko,Grass
+Grovyle,Grass
+Sceptile,Dragon and Grass
+Torchic,Fire
+Combusken,Fighting and Fire
+Blaziken,Fighting and Fire
+Mudkip,Water
+Marshtomp,Ground and Water
+Swampert,Ground and Water
+Poochyena,Dark
+Mightyena,Dark
+Zigzagoon,Dark and Normal
+Linoone,Dark and Normal
+Wurmple,Bug
+Silcoon,Bug
+Beautifly,Bug and Flying
+Cascoon,Bug
+Dustox,Poison and Bug
+Lotad,Grass and Water
+Lombre,Grass and Water
+Ludicolo,Grass and Water
+Seedot,Grass
+Nuzleaf,Dark and Grass
+Shiftry,Dark and Grass
+Taillow,Flying and Normal
+Swellow,Flying and Normal
+Wingull,Water and Flying
+Pelipper,Water and Flying
+Ralts,Psychic and Fairy
+Kirlia,Psychic and Fairy
+Gardevoir,Psychic and Fairy
+Surskit,Bug and Water
+Masquerain,Bug and Flying
+Shroomish,Grass
+Breloom,Fighting and Grass
+Slakoth,Normal
+Vigoroth,Normal
+Slaking,Normal
+Nincada,Bug and Ground
+Ninjask,Bug and Flying
+Shedinja,Ghost and Bug
+Whismur,Normal
+Loudred,Normal
+Exploud,Normal
+Makuhita,Fighting
+Hariyama,Fighting
+Azurill,Fairy and Normal
+Nosepass,Rock
+Skitty,Normal
+Delcatty,Normal
+Sableye,Ghost and Dark
+Mawile,Steel and Fairy
+Aron,Rock and Steel
+Lairon,Rock and Steel
+Aggron,Rock and Steel
+Meditite,Fighting and Psychic
+Medicham,Fighting and Psychic
+Electrike,Electric
+Manectric,Electric
+Plusle,Electric
+Minun,Electric
+Volbeat,Bug
+Illumise,Bug
+Roselia,Poison and Grass
+Gulpin,Poison
+Swalot,Poison
+Carvanha,Dark and Water
+Sharpedo,Dark and Water
+Wailmer,Water
+Wailord,Water
+Numel,Fire and Ground
+Camerupt,Fire and Ground
+Torkoal,Fire
+Spoink,Psychic
+Grumpig,Psychic
+Spinda,Normal
+Trapinch,Ground
+Vibrava,Dragon and Ground
+Flygon,Dragon and Ground
+Cacnea,Grass
+Cacturne,Dark and Grass
+Swablu,Flying and Normal
+Altaria,Dragon and Flying and Fairy
+Zangoose,Normal
+Seviper,Poison
+Lunatone,Rock and Psychic
+Solrock,Rock and Psychic
+Barboach,Ground and Water
+Whiscash,Ground and Water
+Corphish,Water
+Crawdaunt,Dark and Water
+Baltoy,Psychic and Ground
+Claydol,Psychic and Ground
+Lileep,Rock and Grass
+Cradily,Rock and Grass
+Anorith,Rock and Bug
+Armaldo,Rock and Bug
+Feebas,Water
+Milotic,Water
+Castform,Fire and Normal
+Kecleon,Normal
+Shuppet,Ghost
+Banette,Ghost
+Duskull,Ghost
+Dusclops,Ghost
+Tropius,Grass and Flying
+Chimecho,Psychic
+Absol,Dark
+Wynaut,Psychic
+Snorunt,Ice
+Glalie,Ice
+Spheal,Water and Ice
+Sealeo,Water and Ice
+Walrein,Water and Ice
+Clamperl,Water
+Huntail,Water
+Gorebyss,Water
+Relicanth,Rock and Water
+Luvdisc,Water
+Bagon,Dragon
+Shelgon,Dragon
+Salamence,Dragon and Flying
+Beldum,Steel and Psychic
+Metang,Steel and Psychic
+Metagross,Steel and Psychic
+Regirock,Rock
+Regice,Ice
+Registeel,Steel
+Latias,Dragon and Psychic
+Latios,Dragon and Psychic
+Kyogre,Water
+Groudon,Fire and Ground
+Rayquaza,Dragon and Flying
+Jirachi,Steel and Psychic
+Deoxys,Psychic
+Turtwig,Grass
+Grotle,Grass
+Torterra,Ground and Grass
+Chimchar,Fire
+Monferno,Fighting and Fire
+Infernape,Fighting and Fire
+Piplup,Water
+Prinplup,Water
+Empoleon,Steel and Water
+Starly,Flying and Normal
+Staravia,Flying and Normal
+Staraptor,Flying and Normal
+Bidoof,Normal
+Bibarel,Water and Normal
+Kricketot,Bug
+Kricketune,Bug
+Shinx,Electric
+Luxio,Electric
+Luxray,Electric
+Budew,Poison and Grass
+Roserade,Poison and Grass
+Cranidos,Rock
+Rampardos,Rock
+Shieldon,Rock and Steel
+Bastiodon,Rock and Steel
+Burmy,Bug
+Wormadam,Ground and Steel and Bug and Grass
+Mothim,Bug and Flying
+Combee,Bug and Flying
+Vespiquen,Bug and Flying
+Pachirisu,Electric
+Buizel,Water
+Floatzel,Water
+Cherubi,Grass
+Cherrim,Grass
+Shellos,Water
+Gastrodon,Ground and Water
+Ambipom,Normal
+Drifloon,Ghost and Flying
+Drifblim,Ghost and Flying
+Buneary,Normal
+Lopunny,Fighting and Normal
+Mismagius,Ghost
+Honchkrow,Dark and Flying
+Glameow,Normal
+Purugly,Normal
+Chingling,Psychic
+Stunky,Poison and Dark
+Skuntank,Poison and Dark
+Bronzor,Steel and Psychic
+Bronzong,Steel and Psychic
+Bonsly,Rock
+Mime Jr.,Psychic and Fairy
+Happiny,Normal
+Chatot,Flying and Normal
+Spiritomb,Ghost and Dark
+Gible,Dragon and Ground
+Gabite,Dragon and Ground
+Garchomp,Dragon and Ground
+Munchlax,Normal
+Riolu,Fighting
+Lucario,Fighting and Steel
+Hippopotas,Ground
+Hippowdon,Ground
+Skorupi,Poison and Bug
+Drapion,Poison and Dark
+Croagunk,Poison and Fighting
+Toxicroak,Poison and Fighting
+Carnivine,Grass
+Finneon,Water
+Lumineon,Water
+Mantyke,Water and Flying
+Snover,Grass and Ice
+Abomasnow,Grass and Ice
+Weavile,Dark and Ice
+Magnezone,Steel and Electric
+Lickilicky,Normal
+Rhyperior,Rock and Ground
+Tangrowth,Grass
+Electivire,Electric
+Magmortar,Fire
+Togekiss,Fairy and Flying
+Yanmega,Bug and Flying
+Leafeon,Grass
+Glaceon,Ice
+Gliscor,Ground and Flying
+Mamoswine,Ground and Ice
+Porygon-Z,Normal
+Gallade,Fighting and Psychic
+Probopass,Rock and Steel
+Dusknoir,Ghost
+Froslass,Ghost and Ice
+Rotom,Ghost and Fire and Electric and Water
+Uxie,Psychic
+Mesprit,Psychic
+Azelf,Psychic
+Dialga,Steel and Dragon
+Palkia,Dragon and Water
+Heatran,Steel and Fire
+Regigigas,Normal
+Giratina,Ghost and Dragon
+Cresselia,Psychic
+Phione,Water
+Manaphy,Water
+Darkrai,Dark
+Shaymin,Grass and Flying
+Arceus,Normal
+Victini,Fire and Psychic
+Snivy,Grass
+Servine,Grass
+Serperior,Grass
+Tepig,Fire
+Pignite,Fighting and Fire
+Emboar,Fighting and Fire
+Oshawott,Water
+Dewott,Water
+Samurott,Dark and Water
+Patrat,Normal
+Watchog,Normal
+Lillipup,Normal
+Herdier,Normal
+Stoutland,Normal
+Purrloin,Dark
+Liepard,Dark
+Pansage,Grass
+Simisage,Grass
+Pansear,Fire
+Simisear,Fire
+Panpour,Water
+Simipour,Water
+Munna,Psychic
+Musharna,Psychic
+Pidove,Flying and Normal
+Tranquill,Flying and Normal
+Unfezant,Flying and Normal
+Blitzle,Electric
+Zebstrika,Electric
+Roggenrola,Rock
+Boldore,Rock
+Gigalith,Rock
+Woobat,Psychic and Flying
+Swoobat,Psychic and Flying
+Drilbur,Ground
+Excadrill,Steel and Ground
+Audino,Fairy and Normal
+Timburr,Fighting
+Gurdurr,Fighting
+Conkeldurr,Fighting
+Tympole,Water
+Palpitoad,Ground and Water
+Seismitoad,Ground and Water
+Throh,Fighting
+Sawk,Fighting
+Sewaddle,Bug and Grass
+Swadloon,Bug and Grass
+Leavanny,Bug and Grass
+Venipede,Poison and Bug
+Whirlipede,Poison and Bug
+Scolipede,Poison and Bug
+Cottonee,Grass and Fairy
+Whimsicott,Grass and Fairy
+Petilil,Grass
+Lilligant,Fighting and Grass
+Basculin,Water
+Sandile,Dark and Ground
+Krokorok,Dark and Ground
+Krookodile,Dark and Ground
+Darumaka,Fire and Ice
+Darmanitan,Fire and Ice
+Maractus,Grass
+Dwebble,Rock and Bug
+Crustle,Rock and Bug
+Scraggy,Fighting and Dark
+Scrafty,Fighting and Dark
+Sigilyph,Psychic and Flying
+Yamask,Ghost and Ground
+Cofagrigus,Ghost
+Tirtouga,Rock and Water
+Carracosta,Rock and Water
+Archen,Rock and Flying
+Archeops,Rock and Flying
+Trubbish,Poison
+Garbodor,Poison
+Zorua,Ghost and Dark and Normal
+Zoroark,Ghost and Dark and Normal
+Minccino,Normal
+Cinccino,Normal
+Gothita,Psychic
+Gothorita,Psychic
+Gothitelle,Psychic
+Solosis,Psychic
+Duosion,Psychic
+Reuniclus,Psychic
+Ducklett,Water and Flying
+Swanna,Water and Flying
+Vanillite,Ice
+Vanillish,Ice
+Vanilluxe,Ice
+Deerling,Grass and Normal
+Sawsbuck,Grass and Normal
+Emolga,Electric and Flying
+Karrablast,Bug
+Escavalier,Steel and Bug
+Foongus,Poison and Grass
+Amoonguss,Poison and Grass
+Frillish,Ghost and Water
+Jellicent,Ghost and Water
+Alomomola,Water
+Joltik,Bug and Electric
+Galvantula,Bug and Electric
+Ferroseed,Steel and Grass
+Ferrothorn,Steel and Grass
+Klink,Steel
+Klang,Steel
+Klinklang,Steel
+Tynamo,Electric
+Eelektrik,Electric
+Eelektross,Electric
+Elgyem,Psychic
+Beheeyem,Psychic
+Litwick,Ghost and Fire
+Lampent,Ghost and Fire
+Chandelure,Ghost and Fire
+Axew,Dragon
+Fraxure,Dragon
+Haxorus,Dragon
+Cubchoo,Ice
+Beartic,Ice
+Cryogonal,Ice
+Shelmet,Bug
+Accelgor,Bug
+Stunfisk,Steel and Electric and Ground
+Mienfoo,Fighting
+Mienshao,Fighting
+Druddigon,Dragon
+Golett,Ghost and Ground
+Golurk,Ghost and Ground
+Pawniard,Steel and Dark
+Bisharp,Steel and Dark
+Bouffalant,Normal
+Rufflet,Flying and Normal
+Braviary,Psychic and Flying and Normal
+Vullaby,Dark and Flying
+Mandibuzz,Dark and Flying
+Heatmor,Fire
+Durant,Steel and Bug
+Deino,Dragon and Dark
+Zweilous,Dragon and Dark
+Hydreigon,Dragon and Dark
+Larvesta,Fire and Bug
+Volcarona,Fire and Bug
+Cobalion,Fighting and Steel
+Terrakion,Rock and Fighting
+Virizion,Fighting and Grass
+Tornadus,Flying
+Thundurus,Electric and Flying
+Reshiram,Fire and Dragon
+Zekrom,Dragon and Electric
+Landorus,Ground and Flying
+Kyurem,Dragon and Ice
+Keldeo,Fighting and Water
+Meloetta,Fighting and Psychic and Normal
+Genesect,Steel and Bug
+Chespin,Grass
+Quilladin,Grass
+Chesnaught,Fighting and Grass
+Fennekin,Fire
+Braixen,Fire
+Delphox,Fire and Psychic
+Froakie,Water
+Frogadier,Water
+Greninja,Dark and Water
+Bunnelby,Normal
+Diggersby,Ground and Normal
+Fletchling,Flying and Normal
+Fletchinder,Fire and Flying
+Talonflame,Fire and Flying
+Scatterbug,Bug
+Spewpa,Bug
+Vivillon,Bug and Flying
+Litleo,Fire and Normal
+Pyroar,Fire and Normal
+Flabébé,Fairy
+Floette,Fairy
+Florges,Fairy
+Skiddo,Grass
+Gogoat,Grass
+Pancham,Fighting
+Pangoro,Fighting and Dark
+Furfrou,Normal
+Espurr,Psychic
+Meowstic,Psychic
+Honedge,Ghost and Steel
+Doublade,Ghost and Steel
+Aegislash,Ghost and Steel
+Spritzee,Fairy
+Aromatisse,Fairy
+Swirlix,Fairy
+Slurpuff,Fairy
+Inkay,Psychic and Dark
+Malamar,Psychic and Dark
+Binacle,Rock and Water
+Barbaracle,Rock and Water
+Skrelp,Poison and Water
+Dragalge,Poison and Dragon
+Clauncher,Water
+Clawitzer,Water
+Helioptile,Electric and Normal
+Heliolisk,Electric and Normal
+Tyrunt,Rock and Dragon
+Tyrantrum,Rock and Dragon
+Amaura,Rock and Ice
+Aurorus,Rock and Ice
+Sylveon,Fairy
+Hawlucha,Fighting and Flying
+Dedenne,Electric and Fairy
+Carbink,Rock and Fairy
+Goomy,Dragon
+Sliggoo,Steel and Dragon
+Goodra,Steel and Dragon
+Klefki,Steel and Fairy
+Phantump,Ghost and Grass
+Trevenant,Ghost and Grass
+Pumpkaboo,Ghost and Grass
+Gourgeist,Ghost and Grass
+Bergmite,Ice
+Avalugg,Rock and Ice
+Noibat,Dragon and Flying
+Noivern,Dragon and Flying
+Xerneas,Fairy
+Yveltal,Dark and Flying
+Zygarde,Dragon and Ground
+Diancie,Rock and Fairy
+Hoopa,Ghost and Psychic and Dark
+Volcanion,Fire and Water
+Rowlet,Grass and Flying
+Dartrix,Grass and Flying
+Decidueye,Ghost and Fighting and Grass
+Litten,Fire
+Torracat,Fire
+Incineroar,Fire and Dark
+Popplio,Water
+Brionne,Water
+Primarina,Water and Fairy
+Pikipek,Flying and Normal
+Trumbeak,Flying and Normal
+Toucannon,Flying and Normal
+Yungoos,Normal
+Gumshoos,Normal
+Grubbin,Bug
+Charjabug,Bug and Electric
+Vikavolt,Bug and Electric
+Crabrawler,Fighting
+Crabominable,Fighting and Ice
+Oricorio,Fire and Electric and Flying
+Cutiefly,Bug and Fairy
+Ribombee,Bug and Fairy
+Rockruff,Rock
+Lycanroc,Rock
+Wishiwashi,Water
+Mareanie,Poison and Water
+Toxapex,Poison and Water
+Mudbray,Ground
+Mudsdale,Ground
+Dewpider,Bug and Water
+Araquanid,Bug and Water
+Fomantis,Grass
+Lurantis,Grass
+Morelull,Grass and Fairy
+Shiinotic,Grass and Fairy
+Salandit,Poison and Fire
+Salazzle,Poison and Fire
+Stufful,Fighting and Normal
+Bewear,Fighting and Normal
+Bounsweet,Grass
+Steenee,Grass
+Tsareena,Grass
+Comfey,Fairy
+Oranguru,Psychic and Normal
+Passimian,Fighting
+Wimpod,Bug and Water
+Golisopod,Bug and Water
+Sandygast,Ghost and Ground
+Palossand,Ghost and Ground
+Pyukumuku,Water
+Type: Null,
+Silvally,Normal
+Minior,Rock and Flying
+Komala,Normal
+Turtonator,Fire and Dragon
+Togedemaru,Steel and Electric
+Mimikyu,Ghost and Fairy
+Bruxish,Psychic and Water
+Drampa,Dragon and Normal
+Dhelmise,Ghost and Grass
+Jangmo-o,Dragon
+Hakamo-o,Fighting and Dragon
+Kommo-o,Fighting and Dragon
+Tapu Koko,Electric and Fairy
+Tapu Lele,Psychic and Fairy
+Tapu Bulu,Grass and Fairy
+Tapu Fini,Water and Fairy
+Cosmog,Psychic
+Cosmoem,Psychic
+Solgaleo,Steel and Psychic
+Lunala,Ghost and Psychic
+Nihilego,Rock and Poison
+Buzzwole,Fighting and Bug
+Pheromosa,Fighting and Bug
+Xurkitree,Electric
+Celesteela,Steel and Flying
+Kartana,Steel and Grass
+Guzzlord,Dragon and Dark
+Necrozma,Steel and Psychic
+Magearna,Steel and Fairy
+Marshadow,Ghost and Fighting
+Poipole,Poison
+Naganadel,Poison and Dragon
+Stakataka,Rock and Steel
+Blacephalon,Ghost and Fire
+Zeraora,Electric
+Meltan,Steel
+Melmetal,Steel
+Grookey,Grass
+Thwackey,Grass
+Rillaboom,Grass
+Scorbunny,Fire
+Raboot,Fire
+Cinderace,Fire
+Sobble,Water
+Drizzile,Water
+Inteleon,Water
+Skwovet,Normal
+Greedent,Normal
+Rookidee,Flying
+Corvisquire,Flying
+Corviknight,Steel and Flying
+Blipbug,Bug
+Dottler,Bug and Psychic
+Orbeetle,Bug and Psychic
+Nickit,Dark
+Thievul,Dark
+Gossifleur,Grass
+Eldegoss,Grass
+Wooloo,Normal
+Dubwool,Normal
+Chewtle,Water
+Drednaw,Rock and Water
+Yamper,Electric
+Boltund,Electric
+Rolycoly,Rock
+Carkol,Rock and Fire
+Coalossal,Rock and Fire
+Applin,Dragon and Grass
+Flapple,Dragon and Grass
+Appletun,Dragon and Grass
+Silicobra,Ground
+Sandaconda,Ground
+Cramorant,Water and Flying
+Arrokuda,Water
+Barraskewda,Water
+Toxel,Poison and Electric
+Toxtricity,Poison and Electric
+Sizzlipede,Bug and Fire
+Centiskorch,Bug and Fire
+Clobbopus,Fighting
+Grapploct,Fighting
+Sinistea,Ghost
+Polteageist,Ghost
+Hatenna,Psychic
+Hattrem,Psychic
+Hatterene,Psychic and Fairy
+Impidimp,Dark and Fairy
+Morgrem,Dark and Fairy
+Grimmsnarl,Dark and Fairy
+Obstagoon,Dark and Normal
+Perrserker,Steel
+Cursola,Ghost
+Sirfetch'd,Fighting
+Mr. Rime,Psychic and Ice
+Runerigus,Ghost and Ground
+Milcery,Fairy
+Alcremie,Fairy
+Falinks,Fighting
+Pincurchin,Electric
+Snom,Bug and Ice
+Frosmoth,Bug and Ice
+Stonjourner,Rock
+Eiscue,Ice
+Indeedee,Psychic and Normal
+Morpeko,Electric and Dark
+Cufant,Steel
+Copperajah,Steel
+Dracozolt,Dragon and Electric
+Arctozolt,Electric and Ice
+Dracovish,Dragon and Water
+Arctovish,Water and Ice
+Duraludon,Steel and Dragon
+Dreepy,Ghost and Dragon
+Drakloak,Ghost and Dragon
+Dragapult,Ghost and Dragon
+Zacian,Steel and Fairy
+Zamazenta,Fighting and Steel
+Eternatus,Poison and Dragon
+Kubfu,Fighting
+Urshifu,Water and Fighting and Dark
+Zarude,Grass and Dark
+Regieleki,Electric
+Regidrago,Dragon
+Glastrier,Ice
+Spectrier,Ghost
+Calyrex,Ghost and Psychic and Grass and Ice
+Wyrdeer,Psychic and Normal
+Kleavor,Rock and Bug
+Ursaluna,Ground and Normal
+Basculegion,Ghost and Water
+Sneasler,Poison and Fighting
+Overqwil,Poison and Dark
+Enamorus,Fairy and Flying
+Sprigatito,Grass
+Floragato,Grass
+Meowscarada,Dark and Grass
+Fuecoco,Fire
+Crocalor,Fire
+Skeledirge,Ghost and Fire
+Quaxly,Water
+Quaxwell,Water
+Quaquaval,Fighting and Water
+Lechonk,Normal
+Oinkologne,Normal
+Tarountula,Bug
+Spidops,Bug
+Nymble,Bug
+Lokix,Bug and Dark
+Pawmi,Electric
+Pawmo,Fighting and Electric
+Pawmot,Fighting and Electric
+Tandemaus,Normal
+Maushold,Normal
+Fidough,Fairy
+Dachsbun,Fairy
+Smoliv,Grass and Normal
+Dolliv,Grass and Normal
+Arboliva,Grass and Normal
+Squawkabilly,Flying and Normal
+Nacli,Rock
+Naclstack,Rock
+Garganacl,Rock
+Charcadet,Fire
+Armarouge,Fire and Psychic
+Ceruledge,Ghost and Fire
+Tadbulb,Electric
+Bellibolt,Electric
+Wattrel,Electric and Flying
+Kilowattrel,Electric and Flying
+Maschiff,Dark
+Mabosstiff,Dark
+Shroodle,Poison and Normal
+Grafaiai,Poison and Normal
+Bramblin,Ghost and Grass
+Brambleghast,Ghost and Grass
+Toedscool,Grass and Ground
+Toedscruel,Grass and Ground
+Klawf,Rock
+Capsakid,Grass
+Scovillain,Fire and Grass
+Rellor,Bug
+Rabsca,Bug and Psychic
+Flittle,Psychic
+Espathra,Psychic
+Tinkatink,Steel and Fairy
+Tinkatuff,Steel and Fairy
+Tinkaton,Steel and Fairy
+Wiglett,Water
+Wugtrio,Water
+Bombirdier,Dark and Flying
+Finizen,Water
+Palafin,Water
+Varoom,Poison and Steel
+Revavroom,Poison and Steel
+Cyclizar,Dragon and Normal
+Orthworm,Steel
+Glimmet,Rock and Poison
+Glimmora,Rock and Poison
+Greavard,Ghost
+Houndstone,Ghost
+Flamigo,Fighting and Flying
+Cetoddle,Ice
+Cetitan,Ice
+Veluza,Psychic and Water
+Dondozo,Water
+Tatsugiri,Dragon and Water
+Annihilape,Ghost and Fighting
+Clodsire,Poison and Ground
+Farigiraf,Psychic and Normal
+Dudunsparce,Normal
+Kingambit,Steel and Dark
+Great Tusk,Fighting and Ground
+Scream Tail,Psychic and Fairy
+Brute Bonnet,Dark and Grass
+Flutter Mane,Ghost and Fairy
+Slither Wing,Fighting and Bug
+Sandy Shocks,Electric and Ground
+Iron Treads,Steel and Ground
+Iron Bundle,Water and Ice
+Iron Hands,Fighting and Electric
+Iron Jugulis,Dark and Flying
+Iron Moth,Poison and Fire
+Iron Thorns,Rock and Electric
+Frigibax,Dragon and Ice
+Arctibax,Dragon and Ice
+Baxcalibur,Dragon and Ice
+Gimmighoul,Ghost
+Gholdengo,Ghost and Steel
+Wo-Chien,Grass and Dark
+Chien-Pao,Dark and Ice
+Ting-Lu,Ground and Dark
+Chi-Yu,Fire and Dark
+Roaring Moon,Dragon and Dark
+Iron Valiant,Fighting and Fairy
+Koraidon,Fighting and Dragon
+Miraidon,Dragon and Electric
+Walking Wake,Dragon and Water
+Iron Leaves,Psychic and Grass
+Dipplin,Dragon and Grass
+Poltchageist,Ghost and Grass
+Sinistcha,Ghost and Grass
+Okidogi,Poison and Fighting
+Munkidori,Poison and Psychic
+Fezandipiti,Poison and Fairy
+Ogerpon,Water and Grass
+Archaludon,Steel and Dragon
+Hydrapple,Dragon and Grass
+Gouging Fire,Fire and Dragon
+Raging Bolt,Dragon and Electric
+Iron Boulder,Rock and Psychic
+Iron Crown,Steel and Psychic
+Terapagos,Normal
+Pecharunt,Poison and Ghost
