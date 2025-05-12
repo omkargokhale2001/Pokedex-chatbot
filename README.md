@@ -9,30 +9,33 @@ To run the project, it's recommended to use a **virtual environment** to manage 
 ### Setup Instructions:
 
 1. Create a virtual environment:
-    ```bash
-    python -m venv venv
-    ```
+
+   ```bash
+   python -m venv venv
+   ```
 
 2. Activate the virtual environment:
-    - On macOS/Linux:
-      ```bash
-      source venv/bin/activate
-      ```
-    - On Windows:
-      ```bash
-      .\venv\Scripts\activate
-      ```
+
+   - On macOS/Linux:
+     ```bash
+     source venv/bin/activate
+     ```
+   - On Windows:
+     ```bash
+     .\venv\Scripts\activate
+     ```
 
 3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. Run the app:
-    ```bash
-    python app.py
-    ```
-5. Use your together ai API key
+   ```bash
+   python app.py
+   ```
+5. Use your together ai API key or replace the generate_response() function with your own model inference.
    ```bash
    export TOGETHER_API_KEY=<your_api_key>
    ```
