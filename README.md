@@ -34,14 +34,15 @@ To run the project, it's recommended to use a **virtual environment** to manage 
    ```bash
    pip install -r requirements.txt
    ```
-
-4. Run the app:
-   ```bash
-   python app.py
-   ```
-5. Use your together ai API key or replace the generate_response() function with your own model inference.
+   
+4. Use your together ai API key or replace the generate_response() function with your own model inference.
    ```bash
    export TOGETHER_API_KEY=<your_api_key>
+   ```
+   
+5. Run the app:
+   ```bash
+   python app.py
    ```
 
 ### Notes
